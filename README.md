@@ -1,1 +1,3 @@
 The database consists of two main tables: users and login_audit. The users table stores account details such as id, username, password, role, and security-related fields like failed_attempt, account_non_locked, and lock_time for tracking login failures and account locking. The login_audit table records every login activity, including the username, ip_address, status (like SUCCESS or FAILURE), message, and timestamp for auditing and security monitoring.
+<img width="933" height="116" alt="image" src="https://github.com/user-attachments/assets/6e7f30cf-aac8-4daa-965f-8458debdf255" />
+<img width="787" height="86" alt="image" src="https://github.com/user-attachments/assets/8b32abf2-f170-4d44-8b93-2deec926af26" />
